@@ -7,7 +7,7 @@
 * Comprendre les bénéfices d’un framework comme Jersey
 
 ## Sujet
-* L’objectif de ce projet est de continuer le développement d’une application type réseau social permettant de comparer sa consommation électrique avec ses amis, ses voisins,etc. dans la lignée de opower (voir TP2)
+L’objectif de ce projet est de continuer le développement d’une application type réseau social permettant de comparer sa consommation électrique avec ses amis, ses voisins,etc. dans la lignée de opower (voir TP2)
 
 ## Servlet
 * A partir des entitées créées au TP2, on peut créer un servlet GET pour récupérer et afficher les données présentes la BDD dans du HTML
